@@ -5,7 +5,7 @@ Matrix
   Se debe poder sumar dos matrices de enteros
   Se debe poder sumar dos matrices de racionales
   Se debe poder multiplicar una matriz de Enteros
-  Se debe poder multiplicar dos matrices de Racionales
+  Se debe poder multiplicar dos matrices de Racionaless
 
 Finished in 0.00161 seconds
 4 examples, 0 failures
